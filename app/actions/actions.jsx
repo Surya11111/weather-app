@@ -1,4 +1,4 @@
-import { getWeather } from '../API/API'
+import { getWeather } from '../api/API'
 
 const addWeather = (list) => {
   return {
