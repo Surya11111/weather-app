@@ -1,4 +1,4 @@
-# WeatherForecastApp
+# Weather Report Application
  A single page displaying the five day weather forecast for a location of your choice, using the data from http://openweathermap.org/forecast5.
  
 The application uses axios for making async network call.
@@ -10,7 +10,7 @@ Steps:-
 
 1>Clone Repository
 
-2>cd WeatherForecastApp
+2>cd weather-app
 
 3>npm install
 
