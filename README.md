@@ -5,7 +5,7 @@ Application Demo :-https://weather-report-5.herokuapp.com/
 
 The application uses axios for making async network call.
 
-Its build using js,React.js,Redux,Redux-thunk,CSS3,HTML5
+Its build using js,React.js,Redux,Redux-thunk,CSS3,HTML5,Bootstap,axios,Enzyme,Jest,Webpack,Babel
 
 
 Steps:-
