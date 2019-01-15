@@ -1,0 +1,25 @@
+.topbar{
+	margin-top:$topbar-margin-top-one;
+	margin-bottom:$topbar-margin-top-one
+}
+.todayLabel{
+	text-align: center!important;
+	background-color:$label-bg-color;
+	margin-top: 0.5em
+}
+
+.todayWeatherList{
+	text-align: center!important;
+}
+
+.list-group-item{
+	border:none!important;
+	background-color:$list-group-item-background-color;
+	font-weight: $generic-font-weight;
+	border-radius: none!important;
+}
+
+.centercontent{
+text-align: center;
+margin-top: 2em;
+}
